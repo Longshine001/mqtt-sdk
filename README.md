@@ -1,1 +1,1 @@
-# 郎新平台设备侧基于mqtt协议接入时的sdk，基于paho mqtt client作了二次封装
+ 郎新平台设备侧基于mqtt协议接入时的sdk，基于paho mqtt client作了二次封装
